@@ -1,1 +1,1 @@
-The file contains small scale implementation of Proprsed AI Powered ECG interpreter.
+The file contains small scale implementation of Potential AI Powered ECG interpreter.
